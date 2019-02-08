@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A gem that makes you able to test tables"
   spec.description   = "A gem that makes you able to test tables"
-  spec.homepage      = "https://github.com/keoghpe/testtable"
+  spec.homepage      = "http://rubygems.org/gems/testtable"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
